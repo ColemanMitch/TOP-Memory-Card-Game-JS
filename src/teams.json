@@ -3,192 +3,192 @@
         "id": 1,
         "clicked" : false,
         "name": "Arizona Cardinals",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2.png"
+        "image": "https://i.imgur.com/RVfwnZz.png"
       },
       {
         "id": 2,
         "clicked" : false,
         "name": "Atlanta Falcons",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-atlanta-falcons-team-logo-2.png"
+        "image": "https://i.imgur.com/xAvw1Nt.png"
       },
       {
         "id": 3,
         "clicked" : false,
         "name": "Baltimore Ravens",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-baltimore-ravens-team-logo-2.png"
+        "image": "https://i.imgur.com/342cvvq.png"
       },
       {
         "id": 4,
         "clicked" : false,
         "name": "Buffalo Bills",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo-2.png"
+        "image": "https://i.imgur.com/INsNBpj.png"
       },
       {
         "id": 5,
         "clicked" : false,
         "name": "Carolina Panthers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-carolina-panthers-team-logo-2.png"
+        "image": "https://i.imgur.com/0Vvocu0.png"
       },
       {
         "id": 6,
         "clicked" : false,
         "name": "Chicago Bears",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo-2.png"
+        "image": "https://i.imgur.com/Pfb8FPY.png"
       },
       {
         "id": 7,
         "clicked" : false,
         "name": "Cincinnati Bengals",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-cincinnati-bengals-team-logo-2.png"
+        "image": "https://i.imgur.com/xAvw1Nt.png"
       },
       {
         "id": 8,
         "clicked" : false,
         "name": "Cleveland Browns",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-cleveland-browns-team-logo-2.png"
+        "image": "https://i.imgur.com/0Oed10R.png"
       },
       {
         "id": 9,
         "clicked" : false,
         "name": "Dallas Cowboys",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-dallas-cowboys-team-logo-2.png"
+        "image": "https://i.imgur.com/fnlNonn.png"
       },
       {
         "id": 10,
         "clicked" : false,
         "name": "Denver Broncos",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-denver-broncos-team-logo-2.png"
+        "image": "https://i.imgur.com/PZ67fJp.png"
       },
       {
         "id": 11,
         "clicked" : false,
         "name": "Detroit Lions",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo-2.png"
+        "image": "https://i.imgur.com/Q6tmJYX.png"
       },
       {
         "id": 12,
         "clicked" : false,
         "name": "Green Bay Packers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-green-bay-packers-team-logo-2.png"
+        "image": "https://i.imgur.com/T3dLZg6.png"
       },
       {
         "id": 13,
         "clicked" : false,
         "name": "Houston Texans",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo-2.png"
+        "image": "https://i.imgur.com/Ekc0DZY.png"
       },
       {
         "id": 14,
         "clicked" : false,
         "name": "Indianapolis Colts",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo-2.png"
+        "image": "https://i.imgur.com/SPYs51c.png"
       },
       {
         "id": 15,
         "clicked" : false,
         "name": "Jacksonville Jaguars",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo-2.png"
+        "image": "https://i.imgur.com/h5OLgQH.png"
       },
       {
         "id": 16,
         "clicked" : false,
         "name": "Kansas City Chiefs",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-kansas-city-chiefs-team-logo-2.png"
+        "image": "https://i.imgur.com/vWspVFy.png"
       },
       {
         "id": 17,
         "clicked" : false,
         "name": "Las Vegas Raiders",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-oakland-raiders-team-logo.png"
+        "image": "https://i.imgur.com/WjK0fab.png"
       },
       {
         "id": 18,
         "clicked" : false,
         "name": "Los Angeles Chargers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-los-angeles-chargers-team-logo-2.png"
+        "image": "https://i.imgur.com/f7xGtIp.png"
       },
       {
         "id": 19,
         "clicked" : false,
         "name": "Los Angeles Rams",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-los-angeles-rams-team-logo-2.png"
+        "image": "https://i.imgur.com/31UGAkq.png"
       },
       {
         "id": 20,
         "clicked" : false,
         "name": "Miami Dolphins",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-miami-dolphins-team-logo-2.png"
+        "image": "https://i.imgur.com/c2eOBwq.png"
       },
       {
         "id": 21,
         "clicked" : false,
         "name": "Minnesota Vikings",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo-2.png"
+        "image": "https://i.imgur.com/KGCpwWa.png"
       },
       {
         "id": 22,
         "clicked" : false,
         "name": "New England Patriots",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo-2.png"
+        "image": "https://i.imgur.com/5hQ0DWJ.png"
       },
       {
         "id": 23,
         "clicked" : false,
         "name": "New Orleans Saints",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo-2.png"
+        "image": "https://i.imgur.com/rVg4mP9.png"
       },
       {
         "id": 24,
         "clicked" : false,
         "name": "New York Giants",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-new-york-giants-team-logo-2.png"
+        "image": "https://i.imgur.com/lRDhgBz.png"
       },
       {
         "id": 25,
         "clicked" : false,
         "name": "New York Jets",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-new-york-jets-team-logo.png"
+        "image": "https://i.imgur.com/RHUkWgN.png"
       },
       {
         "id": 26,
         "clicked" : false,
         "name": "Philadelphia Eagles",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-philadelphia-eagles-team-logo-2.png"
+        "image": "https://i.imgur.com/CKA9GA0.png"
       },
       {
         "id": 27,
         "clicked" : false,
         "name": "Pittsburgh Steelers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-pittsburgh-steelers-team-logo-2.png"
+        "image": "https://i.imgur.com/GpnsiXF.png"
       },
       {
         "id": 28,
         "clicked" : false,
         "name": "San Francisco 49ers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo-2.png"
+        "image": "https://i.imgur.com/97QrSZ2.png"
       },
       {
         "id": 29,
         "clicked" : false,
         "name": "Seattle Seahawks",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-seattle-seahawks-team-logo-2.png"
+        "image": "https://i.imgur.com/6VmSuZm.png"
       },
       {
         "id": 30,
         "clicked" : false,
         "name": "Tampa Bay Buccaneers",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-tampa-bay-buccaneers-team-logo-2.png"
+        "image": "https://i.imgur.com/1fQlgmL.png"
       },
       {
         "id": 31,
         "clicked" : false,
         "name": "Tennessee Titans",
-        "image": "http://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo-2.png"
+        "image": "https://i.imgur.com/0z4lUuC.png"
       },
       {
         "id": 32,
         "clicked" : false,
         "name": "Washington Football Team",
-        "image": "http://loodibee.com/wp-content/uploads/washington-football-team-2020-logo.png"
+        "image": "https://i.imgur.com/jpbseRB.png"
       }
 ]
