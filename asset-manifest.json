@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TOP-Memory-Card-Game-JS/static/css/main.58ad0c76.chunk.css",
+    "main.js": "/TOP-Memory-Card-Game-JS/static/js/main.1e93bcaa.chunk.js",
+    "main.js.map": "/TOP-Memory-Card-Game-JS/static/js/main.1e93bcaa.chunk.js.map",
+    "runtime-main.js": "/TOP-Memory-Card-Game-JS/static/js/runtime-main.aeae3177.js",
+    "runtime-main.js.map": "/TOP-Memory-Card-Game-JS/static/js/runtime-main.aeae3177.js.map",
+    "static/js/2.4ce07f0c.chunk.js": "/TOP-Memory-Card-Game-JS/static/js/2.4ce07f0c.chunk.js",
+    "static/js/2.4ce07f0c.chunk.js.map": "/TOP-Memory-Card-Game-JS/static/js/2.4ce07f0c.chunk.js.map",
+    "static/js/3.44250904.chunk.js": "/TOP-Memory-Card-Game-JS/static/js/3.44250904.chunk.js",
+    "static/js/3.44250904.chunk.js.map": "/TOP-Memory-Card-Game-JS/static/js/3.44250904.chunk.js.map",
+    "index.html": "/TOP-Memory-Card-Game-JS/index.html",
+    "static/css/main.58ad0c76.chunk.css.map": "/TOP-Memory-Card-Game-JS/static/css/main.58ad0c76.chunk.css.map",
+    "static/js/2.4ce07f0c.chunk.js.LICENSE.txt": "/TOP-Memory-Card-Game-JS/static/js/2.4ce07f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeae3177.js",
+    "static/js/2.4ce07f0c.chunk.js",
+    "static/css/main.58ad0c76.chunk.css",
+    "static/js/main.1e93bcaa.chunk.js"
+  ]
+}
