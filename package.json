@@ -2,7 +2,7 @@
   "name": "memory-card-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://colemanmitch.github.io/TOP-Memory-Card-Game-JS",
+  "homepage": "https://colemanmitch.github.io/TOP-Memory-Card-Game-JS",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
